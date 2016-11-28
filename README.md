@@ -13,10 +13,3 @@ $ git clone https://github.com/rozman1234/myStackOverflow.git
 $ npm install                   # Install project dependencies
 $ npm start                     # Compile and launch
 ```
-
-Then install dependencies and run:
-
-```bash
-$ npm install                   # Install project dependencies
-$ npm start                     # Compile and launch
-```
