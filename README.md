@@ -3,8 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Requirements
-* node `^4.5.0`
-* npm `^3.0.0`
+* You’ll need to have Node >= 4 on your machine.
 
 ## Getting Started
 
